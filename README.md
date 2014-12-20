@@ -11,7 +11,7 @@ A list of Google resources collected over time
 
 # Google Stubs
 
-- [Google Ideas](http://www.google.com/ideas/): Google Ideas explores how technology can enable people to confront threats in the face of conflict, instability and repression. We connect users, experts and engineers to conduct research and seed new technology-driven initiatives.
++ [Google Ideas](http://www.google.com/ideas/): Google Ideas explores how technology can enable people to confront threats in the face of conflict, instability and repression. We connect users, experts and engineers to conduct research and seed new technology-driven initiatives.    
 - [Transparency Report](http://www.google.com/transparencyreport): Data that sheds light on how laws and policies affect Internet users
 and the flow of information online.
 - [Google Green](http://www.google.com/green/): A better web.
